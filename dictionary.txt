@@ -18,6 +18,10 @@ Mehlhase          - Flour bunny
 Gebaeck           - Pastries
 Baeckerei         - Bakery
 Hund              - Dog
+<<<<<<< HEAD
 Döner	          - A Turkish meat street food, popular in Europe
+=======
+Döner             - A Turkish meat street food
+>>>>>>> aaa8cb4acd6eced5b8b8c8ae784c3e3ad34a4814
 Apfelkuchen       - Apple pie
 Eltz              - Noted German noble family
