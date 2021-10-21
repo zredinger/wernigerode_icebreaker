@@ -18,6 +18,6 @@ Mehlhase          - Flour bunny
 Gebaeck           - Pastries
 Baeckerei         - Bakery
 Hund              - Dog
-DÃ¶ner            - ?
+Döner	          - A Turkish meat street food, popular in Europe
 Apfelkuchen       - Apple pie
 Eltz              - Noted German noble family
